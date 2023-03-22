@@ -14,4 +14,4 @@ The K Nearest Neighbor algorithm is classified as supervised learning and is com
 For Project datasets (TMDb 5000 movie datasets) are downloaded from kaggle.com. Datasets contains information about 5000 movies.
 
 
-
+![movie](https://user-images.githubusercontent.com/83577844/226948187-ad5abcbf-0c77-49c0-87eb-d0222443078e.jpg)
