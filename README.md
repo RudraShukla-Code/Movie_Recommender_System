@@ -1,8 +1,8 @@
 # Movie_Recommender_System
 
-Movie recommendation system that recommends movies based on user input using the KNN algorithm. Movies are recommended based on the genre, cast, and director.
+Movie recommendation system using the K-nearest neighbors (KNN) algorithm and and natural language processing (NLP) techniques, specifically the bag-of-words technique for feature extraction. The system takes input from the user in the form of a movie title and recommend similar movies based on the genre, cast, and director, and other features extracted from their synopsis.
 
-
+The KNN algorithm is used to identify the K-nearest movies to the input movie in terms of feature similarity. The bag-of-words technique is applied to extract features from the movie dataset, where each movie synopsis is represented as a set of words, which are then used to calculate the similarity between movies.
 
 
 # KNN Algorithm
